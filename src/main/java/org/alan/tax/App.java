@@ -82,7 +82,7 @@ public class App {
 
             //Load keys and certificate
             KeyingDataProvider kp
-                    = new FileSystemKeyStoreKeyingDataProvider("jks", "user.jks",
+                    = new FileSystemKeyStoreKeyingDataProvider("pkcs12", "keys/user1.p12",
                             new FirstCertificateSelector(),
                             new DirectPasswordProvider("1"),
                             new DirectPasswordProvider("1"),

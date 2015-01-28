@@ -6,7 +6,7 @@
 mvn clean compile
 
 Запустити
-mvn exec:java -Dexec.mainClass="com.example.Main"
+mvn exec:java -Dexec.mainClass="org.alan.tax.App"
 
 Результат
 taxDeclarationExample.xml.sig.xml

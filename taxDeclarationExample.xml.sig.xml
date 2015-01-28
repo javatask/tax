@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><DECLAR>
+  <DECLARHEAD>
+    <TIN>str1234</TIN>
+    <C_DOC>str1234</C_DOC>
+    <C_DOC_SUB>str1234</C_DOC_SUB>
+    <C_DOC_VER>str1234</C_DOC_VER>
+    <C_DOC_TYPE>33</C_DOC_TYPE>
+    <C_DOC_CNT>33</C_DOC_CNT>
+    <C_REG>1234</C_REG>
+    <C_RAJ>1234</C_RAJ>
+    <PERIOD_MONTH>1234</PERIOD_MONTH>
+    <PERIOD_TYPE>1234</PERIOD_TYPE>
+    <PERIOD_YEAR>1234</PERIOD_YEAR>
+    <C_STI_ORIG>1234</C_STI_ORIG>
+    <C_DOC_STAN>1234</C_DOC_STAN>
+    <LINKED_DOCS>
+      <DOC NUM="33" TYPE="33">
+        <C_DOC>str1234</C_DOC>
+        <C_DOC_SUB>str1234</C_DOC_SUB>
+        <C_DOC_VER>str1234</C_DOC_VER>
+        <C_DOC_TYPE>33</C_DOC_TYPE>
+        <C_DOC_CNT>33</C_DOC_CNT>
+        <C_DOC_STAN>1234</C_DOC_STAN>
+        <FILENAME>str1234</FILENAME>
+      </DOC>
+    </LINKED_DOCS>
+    <D_FILL>str12340</D_FILL>
+    <SOFTWARE>str1234</SOFTWARE>
+  </DECLARHEAD>
+  <DECLARBODY>
+    <H01>1</H01>
+    <HORIG1>1</HORIG1>
+    <HTYPR>01</HTYPR>
+    <HFILL>str12340</HFILL>
+    <HNUM>12345</HNUM>
+    <HNUM1>12345</HNUM1>
+    <HNUM2>12345</HNUM2>
+    <HNAMESEL>str1234</HNAMESEL>
+    <HNAMEBUY>str1234</HNAMEBUY>
+    <HKSEL>str1234</HKSEL>
+    <HKBUY>str1234</HKBUY>
+    <HLOCSEL>str1234</HLOCSEL>
+    <HLOCBUY>str1234</HLOCBUY>
+    <HTELSEL>str1234</HTELSEL>
+    <HTELBUY>str1234</HTELBUY>
+    <H01G1S>str1234</H01G1S>
+    <H01G2D>str12340</H01G2D>
+    <H01G3S>str1234</H01G3S>
+    <H02G1S>str1234</H02G1S>
+    <RXXXXG2D ROWNUM="123">str1234</RXXXXG2D>
+    <RXXXXG3S ROWNUM="123">str1234</RXXXXG3S>
+    <RXXXXG4 ROWNUM="123">1234</RXXXXG4>
+    <RXXXXG4S ROWNUM="123">str1234</RXXXXG4S>
+    <RXXXXG105_2S ROWNUM="123">str1234</RXXXXG105_2S>
+    <RXXXXG5 ROWNUM="123">123.45</RXXXXG5>
+    <RXXXXG6 ROWNUM="123">123.45</RXXXXG6>
+    <RXXXXG7 ROWNUM="123">123.45</RXXXXG7>
+    <RXXXXG109 ROWNUM="123">123.45</RXXXXG109>
+    <RXXXXG8 ROWNUM="123">123.45</RXXXXG8>
+    <RXXXXG9 ROWNUM="123">123.45</RXXXXG9>
+    <RXXXXG10 ROWNUM="123">123.45</RXXXXG10>
+    <R01G7>123.45</R01G7>
+    <R01G109>123.45</R01G109>
+    <R01G8>123.45</R01G8>
+    <R01G9>123.45</R01G9>
+    <R01G10>123.45</R01G10>
+    <R01G11>123.45</R01G11>
+    <R02G11>123.45</R02G11>
+    <R03G7>123.45</R03G7>
+    <R03G109>123.45</R03G109>
+    <R03G10S>str1234</R03G10S>
+    <R03G11>123.45</R03G11>
+    <R04G7>123.45</R04G7>
+    <R04G109>123.45</R04G109>
+    <R04G8>123.45</R04G8>
+    <R04G9>123.45</R04G9>
+    <R04G10>123.45</R04G10>
+    <R04G11>123.45</R04G11>
+    <H10G1S>str1234</H10G1S>
+    <R003G10S>str1234</R003G10S>
+  </DECLARBODY>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-d5d628a5-4a1e-4bbf-ac10-58e0bdeebbe9">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference Id="xmldsig-d5d628a5-4a1e-4bbf-ac10-58e0bdeebbe9-ref0" URI="">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>dCatQljBiJ4Bonl+uU1b53cXahJMJzHiBo1njo3NETg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-d5d628a5-4a1e-4bbf-ac10-58e0bdeebbe9-signedprops">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>mHIdsOZuaVq9qdzzAP7w3Mw3l92/S4uL4nwbwOTU68Y=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="xmldsig-d5d628a5-4a1e-4bbf-ac10-58e0bdeebbe9-sigvalue">
+WQeQt5oB7WcG3udcfIStNoe+s70oEf3o/ylMm44FwdxJcuZmp30xmiAN3Do4bWNgOfdi9/XPGsL3
+XucbsMDIzLnvHPrW5vKSE5gFbska/DLPWbqlcu+KdkQY5PU63kYVckBGP95ca91uoo+R7Y2D+60D
+LKEyODY87c4Z2OOft+1exkuZ2aJnz5kFIoWwCHHSFiU/ravakqOwwQ6yn8CZs+6y7v4S+KjkDC51
+rcdkEPC39tzEM83ilEODeyWwi2sf19iVvERVoOGcCkRkuLtWNXIw3qLJ0AD1ilz92Ykk5SszYZMN
+yD5ji5GBYHhnnSwMSYsdCXWWyD2NgXa/nGKmRQ==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIDUTCCAjmgAwIBAgIIWkIempsQvo8wDQYJKoZIhvcNAQENBQAwFzEVMBMGA1UEAwwMTWVsYXNo
+Y2hlbmtvMB4XDTE1MDEyODEzMjUxOVoXDTE3MDEyNzEzMjUxOVowEzERMA8GA1UEAwwIVXNlckNl
+cnQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQClbNaplwXwM+ImLyJ/xP2RJGX4IMil
+UzJ4Z17bstKsTNH4dceb5edliZftHxZ0TX1i30Hiu+XUOUbLLZxfhSbQH++VNPzWtRdW/q15iolZ
+8aN8x0F5kJT/XkT/o5jLypHmw0ibpTioNbzzikdUvW4EyOh+1vF9LTi589EmR9Flc5HJzWuaLWV9
++nYb3ylyR4CvWaY7QdALCzstkJKWTnLa8iZZxwNPNXNLAfwlqMbKEk6nF1qD4mnvI3Tyy7U5TWNA
+5A5Us11tP64QTxMW9tkkWrkqXEe6/LiOBYi6INOZ6SXz/4i4r6kHuc7m65Gr2qcL5aKX3t3sbh1o
+SRkoSFGJAgMBAAGjgaQwgaEwHQYDVR0OBBYEFDI6E08MGuBMMwS2lP2a9kOXlQCZMAwGA1UdEwEB
+/wQCMAAwHwYDVR0jBBgwFoAURKFUmGzwNejzaApeGDRDH7vSCNowIgYIKwYBBQUHAQMEFjAUMAgG
+BgQAjkYBATAIBgYEAI5GAQQwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggr
+BgEFBQcDBDANBgkqhkiG9w0BAQ0FAAOCAQEABsoxupAlPmLtu+6qEAZ7q/p3Hlqv5H8osRxs5Rjw
+jD3L5DthSHKeS+1VPTOrqi8uVQ4mtNWeLJ1bC0m5hp7fSXXTWtQ7iKMHEYu02Qqy5vTDKtoli57G
+BIBrQaqzBGJo12of0+s3tX688tmbcGqR70xofgFz55eKHaCY5Grlfxon+ot/pHONt+OxXA533vc6
+ebc6IWNVNUwtfN0ID/BHohY5w+ayu/rGsrqiECmQzmPy3nyPMD7vAWa72tKdAymULj+NNXC1Kwp3
+dmTnbxRjlgwYer4HdW8VtCx+aoUtJq/2acwB3xz3QNcAo5659Q3y6BHhrPBZIPAA/68vPQPxVQ==
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-d5d628a5-4a1e-4bbf-ac10-58e0bdeebbe9"><xades:SignedProperties Id="xmldsig-d5d628a5-4a1e-4bbf-ac10-58e0bdeebbe9-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2015-01-28T15:52:20.815+02:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>JoGYBkxaGCSx7PRkl7AcZg8GmNPCLDtHio52QVd1qvM=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Melashchenko</ds:X509IssuerName><ds:X509SerialNumber>6503794461251780239</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:CommitmentTypeIndication><xades:CommitmentTypeId><xades:Identifier>http://uri.etsi.org/01903/v1.2.2#ProofOfOrigin</xades:Identifier><xades:Description>Indicates that the signer recognizes to have created, approved and sent the signed data object</xades:Description></xades:CommitmentTypeId><xades:AllSignedDataObjects/></xades:CommitmentTypeIndication></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature></DECLAR>

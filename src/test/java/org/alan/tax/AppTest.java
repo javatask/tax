@@ -1,4 +1,4 @@
-package org.alan.graph.eutaxdecalraion;
+package org.alan.tax;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package org.alan.graph.eutaxdecalraion;
+package org.alan.tax;
 
 import java.io.File;
 import java.io.FileInputStream;
